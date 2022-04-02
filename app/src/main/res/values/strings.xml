@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">TomF-MarieLB</string>
+    <string name="app_name">Funky Penguins</string>
+    <string name="main_name">Penguins</string>
+
+    <string-array name="penguin_name">
+        <item>Penguin 1</item>
+        <item>Penguin 2</item>
+        <item>Penguin 3</item>
+        <item>Penguin 4</item>
+        <item>Penguin 5</item>
+        <item>Penguin 6</item>
+        <item>Penguin 7</item>
+        <item>Penguin 8</item>
+        <item>Penguin 9</item>
+        <item>Penguin 10</item>
+    </string-array>
+
+    <string-array name="penguin_description">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
 </resources>
