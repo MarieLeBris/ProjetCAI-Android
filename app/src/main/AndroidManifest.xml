@@ -10,7 +10,8 @@
         android:theme="@style/Theme.TomFMarieLB">
         <activity
             android:name=".InformationsPenguinsActivity"
-            android:exported="false" />
+            android:parentActivityName=".MainActivity"
+            android:label="Details" />
         <activity
             android:name=".LoadingScreenActivity"
             android:exported="true">
