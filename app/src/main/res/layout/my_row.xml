@@ -20,20 +20,10 @@
             android:layout_height="match_parent">
 
             <TextView
-                android:id="@+id/text_penguin_description"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="Description"
-                android:textSize="16sp"
-                android:textStyle="normal"
-                app:layout_constraintStart_toStartOf="@+id/text_penguin_name"
-                app:layout_constraintTop_toBottomOf="@+id/text_penguin_name" />
-
-            <TextView
                 android:id="@+id/text_penguin_name"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="28dp"
+                android:layout_marginStart="24dp"
                 android:layout_marginTop="8dp"
                 android:text="Title"
                 android:textSize="24sp"
@@ -45,6 +35,7 @@
                 android:id="@+id/my_imageview"
                 android:layout_width="80dp"
                 android:layout_height="80dp"
+                android:layout_marginStart="8dp"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
                 app:srcCompat="@drawable/penguin_1" />

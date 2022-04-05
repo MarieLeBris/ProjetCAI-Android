@@ -3,20 +3,20 @@
     <string name="main_name">Penguins</string>
 
     <string-array name="penguin_name">
-        <item>Penguin 1</item>
-        <item>Penguin 2</item>
-        <item>Penguin 3</item>
-        <item>Penguin 4</item>
-        <item>Penguin 5</item>
-        <item>Penguin 6</item>
-        <item>Penguin 7</item>
-        <item>Penguin 8</item>
-        <item>Penguin 9</item>
-        <item>Penguin 10</item>
+        <item>"Les pingouins de\nMadagascar"</item>
+        <item>"Pingu"</item>
+        <item>"Tux"</item>
+        <item>"Nils Olav"</item>
+        <item>"Biboundé"</item>
+        <item>"Minable le pingouin"</item>
+        <item>"Le petit pingouin"</item>
+        <item>"Le grand pingouin"</item>
+        <item>"Le gorfou sauteur"</item>
+        <item>"Oswald Chesterfield\nCobblepot"</item>
     </string-array>
 
     <string-array name="penguin_description">
-        <item>1</item>
+        <item>1 </item>
         <item>2</item>
         <item>3</item>
         <item>4</item>
