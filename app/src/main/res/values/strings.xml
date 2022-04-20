@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Funky Penguins</string>
     <string name="main_name">Penguins</string>
+    <string name="image_problem">Penguins</string>
 
     <string-array name="penguin_name">
         <item>"Les pingouins de\nMadagascar"</item>
@@ -16,7 +17,7 @@
     </string-array>
 
     <string-array name="penguin_description">
-        <item>1 </item>
+        <item>1 hjqdfvhbdkfhvkerkf skdjfbfhrljdfherohf qkdsjfvhliuqrfhlirurvb jkrfgilquzrhfufuqr qifdiurqehiusdfiqussdbf hbfiluerhfiushfiuhufgehq kjflhgiluerhgibdiuguhsdiuhg sjgiludshgudshfgudfgsbier sidfgbiursgiulsdhvbdfklvjbdfkjv dfjnglkdfngkdfjngkjdgjreoi gdfghkjdfngfjhgnej fkjgkjngkjhgiursj iujhiuhh </item>
         <item>2</item>
         <item>3</item>
         <item>4</item>
